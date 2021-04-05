@@ -13,9 +13,9 @@ PDF관보의 정보들을 데이터 형태로 변환하기까지는 꽤 많은 �
 https://www.opengirok.or.kr/56
 
 
-# 2016년 
+# 2016 국회고위공직자 정기재산변동신고
 
-https://docs.google.com/spreadsheets/d/18sW3VcQLWtkLv7eEOj1Rn3lPIRAJpwVFP1gS6CkVGqw/edit?usp=sharing
+구글시트: https://docs.google.com/spreadsheets/d/18sW3VcQLWtkLv7eEOj1Rn3lPIRAJpwVFP1gS6CkVGqw/edit?usp=sharing
 
 (단위금액: 천원)
 이 데이터는 2016년 3월 25일 국회공보에 공개된 20대 국회 신규의원 재산공개  PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
@@ -26,3 +26,53 @@ https://docs.google.com/spreadsheets/d/18sW3VcQLWtkLv7eEOj1Rn3lPIRAJpwVFP1gS6CkV
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021389&&no=49&&search_key_n=total&&search_val_v=%EC%9E%AC%EC%82%B0&&currentPage=1&&sdate=&&edate=
 
 
+# 2016_국회고위공직자 재산신고내역_20대국회신규의원 포함
+
+구글시트: https://docs.google.com/spreadsheets/d/1i3CaZngtkLAIFYek2bfQOCJI2B4YRenhgJaPqfNf5no/edit?usp=sharing
+
+(단위금액 : 천원)
+이 데이터는 2016년 8월 26일 국회공보에 공개된 20대 국회 신규의원 재산공개  PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+원본과 대조하며 이용해 주시기 바랍니다.
+
+원본 파일▼
+국회공보 제2018-41호(정기재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021715&no=3005&search_key_n=total&search_val_v=&currentPage=511&sdate=&edate=
+
+
+# 2017 국회고위공직자 정기재산변동신고
+
+구글시트: https://drive.google.com/file/d/15o559gHADW3j9-P8uXCh3E4Ah-9eWGcE/view?usp=sharing
+
+(단위금액: 천원)
+이 데이터는 2017년 3월 23일 국회공보에 공개된 국회 고위공직자 정기재산 변동 PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+원본과 대조하며 이용해 주시기 바랍니다.
+
+원본 파일▼
+국회공보 제2017-36호(정기재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021550&no=52&search_key_n=total&search_val_v=%EC%9E%AC%EC%82%B0&currentPage=1&sdate=&edate=
+
+
+# 2018 국회고위공직자 정기재산변동신고
+
+구글시트: https://docs.google.com/spreadsheets/d/1y0wtlamIZ0S-sG1qaMEPd5wUmBrvdI37_A9DyfpRwOQ/edit?usp=sharing 
+
+(단위금액: 천원)
+이 데이터는 2018년 3월 29일 국회공보에 공개된 국회 고위공직자 정기재산 변동 PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+원본과 대조하며 이용해 주시기 바랍니다.
+
+원본 파일▼
+국회공보 제2018-41호(정기재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021715&no=53&search_key_n=total&search_val_v=%EC%9E%AC%EC%82%B0&currentPage=1&sdate=&edate=
+
+
+# 2018 국회고위공직자 정기재산변동신고_정보공개센터
+
+구글시트: https://docs.google.com/spreadsheets/d/1VUO6V2FfMx86xrqLK7lWEGjHOiTVNYpj8LcKQQNdkF0/edit?usp=sharing
+
+(단위금액: 천원)
+이 데이터는 2018년 3월 29일 국회공보에 공개된 국회 고위공직자 정기재산 변동 PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+원본과 대조하며 이용해 주시기 바랍니다.
+
+원본 파일▼
+국회공보 제2018-41호(정기재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021715&no=53&search_key_n=total&search_val_v=%EC%9E%AC%EC%82%B0&currentPage=1&sdate=&edate=
