@@ -41,7 +41,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 
 # 2017 국회고위공직자 정기재산변동신고
 
-구글시트: https://drive.google.com/file/d/15o559gHADW3j9-P8uXCh3E4Ah-9eWGcE/view?usp=sharing
+구글시트: https://docs.google.com/spreadsheets/d/1y0wtlamIZ0S-sG1qaMEPd5wUmBrvdI37_A9DyfpRwOQ/edit?usp=sharing 
 
 (단위금액: 천원)
 이 데이터는 2017년 3월 23일 국회공보에 공개된 국회 고위공직자 정기재산 변동 PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
@@ -54,7 +54,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 
 # 2018 국회고위공직자 정기재산변동신고
 
-구글시트: https://docs.google.com/spreadsheets/d/1y0wtlamIZ0S-sG1qaMEPd5wUmBrvdI37_A9DyfpRwOQ/edit?usp=sharing 
+구글시트: https://docs.google.com/spreadsheets/d/1VUO6V2FfMx86xrqLK7lWEGjHOiTVNYpj8LcKQQNdkF0/edit?usp=sharing
 
 (단위금액: 천원)
 이 데이터는 2018년 3월 29일 국회공보에 공개된 국회 고위공직자 정기재산 변동 PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
@@ -67,12 +67,25 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 
 # 2019 국회고위공직자 정기재산변동신고_정보공개센터
 
-구글시트: https://docs.google.com/spreadsheets/d/1VUO6V2FfMx86xrqLK7lWEGjHOiTVNYpj8LcKQQNdkF0/edit?usp=sharing
+구글시트: https://docs.google.com/spreadsheets/d/1FnmxCWfqc4OQwN4rqi21DqprEoMpPEbQ4XgMmSHQ0Po/edit?usp=sharing
 
 (단위금액: 천원)
-이 데이터는 2018년 3월 29일 국회공보에 공개된 국회 고위공직자 정기재산 변동 PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
-원본과 대조하며 이용해 주시기 바랍니다.
+이 데이터는 2019년 3월 28일 국회공보에 공개된 국회 고위공직자 정기재산 변동 PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+원본과 대조하며 이용해 주시기 바랍니다. 
 
 원본 파일▼
-국회공보 제2018-41호(정기재산공개)
-https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021715&no=53&search_key_n=total&search_val_v=%EC%9E%AC%EC%82%B0&currentPage=1&sdate=&edate=
+국회공보 제2019-31호(정기재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021876&no=3166&search_key_n=total&search_val_v=&currentPage=351&sdate=&edate=
+
+
+# 2020 국회고위공직자 정기재산변동신고
+
+구글시트: https://docs.google.com/spreadsheets/d/1jMoZKX1RzVfOYW5prx4PSfFvA-S8orun_CSbDdYUbXA/edit?usp=sharing
+
+이 데이터는 2020년 3월 26일 국회공보에 공개된 '2020년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+* 금액 단위 : 천원
+
+원본 파일▼
+국회공보 제2020-36호(정기재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100022046&no=3336&search_key_n=&search_val_v=&currentPage=1&sdate=&edate=
+
