@@ -35,8 +35,8 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 원본과 대조하며 이용해 주시기 바랍니다.
 
 원본 파일▼
-국회공보 제2018-41호(정기재산공개)
-https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021715&no=3005&search_key_n=total&search_val_v=&currentPage=511&sdate=&edate=
+국회공보 제2016-78호(제20대국회신규의원재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021444&no=1&search_key_n=total&search_val_v=%EC%8B%A0%EA%B7%9C%EC%9D%98%EC%9B%90&currentPage=1&sdate=&edate=
 
 
 # 2017 국회고위공직자 정기재산변동신고
@@ -65,7 +65,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021715&no=53&search_key_n=total&search_val_v=%EC%9E%AC%EC%82%B0&currentPage=1&sdate=&edate=
 
 
-# 2018 국회고위공직자 정기재산변동신고_정보공개센터
+# 2019 국회고위공직자 정기재산변동신고_정보공개센터
 
 구글시트: https://docs.google.com/spreadsheets/d/1VUO6V2FfMx86xrqLK7lWEGjHOiTVNYpj8LcKQQNdkF0/edit?usp=sharing
 
