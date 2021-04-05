@@ -13,6 +13,7 @@ PDF관보의 정보들을 데이터 형태로 변환하기까지는 꽤 많은 �
 https://www.opengirok.or.kr/56
 
 
+
 # 2016 국회고위공직자 정기재산변동신고
 
 구글시트: https://docs.google.com/spreadsheets/d/18sW3VcQLWtkLv7eEOj1Rn3lPIRAJpwVFP1gS6CkVGqw/edit?usp=sharing
