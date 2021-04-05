@@ -14,7 +14,7 @@ https://www.opengirok.or.kr/56
 
 <br></br>
 
-# 2016 국회고위공직자 정기재산변동신고
+# 2016 국회고위공직자 재산정보
 
 구글시트: https://docs.google.com/spreadsheets/d/18sW3VcQLWtkLv7eEOj1Rn3lPIRAJpwVFP1gS6CkVGqw/edit?usp=sharing
 
@@ -27,7 +27,7 @@ https://www.opengirok.or.kr/56
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021389&&no=49&&search_key_n=total&&search_val_v=%EC%9E%AC%EC%82%B0&&currentPage=1&&sdate=&&edate=
 
 
-# 2016_국회의원 재산신고내역_20대국회신규의원 포함
+# 2016 국회의원 재산신고내역 (20대국회신규의원 포함)
 
 구글시트: https://docs.google.com/spreadsheets/d/1i3CaZngtkLAIFYek2bfQOCJI2B4YRenhgJaPqfNf5no/edit?usp=sharing
 
@@ -40,8 +40,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021444&no=1&search_key_n=total&search_val_v=%EC%8B%A0%EA%B7%9C%EC%9D%98%EC%9B%90&currentPage=1&sdate=&edate=
 
 
-# 2017 국회고위공직자 정기재산변동신고
-
+# 2017 국회고위공직자 재산정보
 구글시트: https://docs.google.com/spreadsheets/d/1y0wtlamIZ0S-sG1qaMEPd5wUmBrvdI37_A9DyfpRwOQ/edit?usp=sharing 
 
 (단위금액: 천원)
@@ -53,7 +52,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021550&no=52&search_key_n=total&search_val_v=%EC%9E%AC%EC%82%B0&currentPage=1&sdate=&edate=
 
 
-# 2018 국회고위공직자 정기재산변동신고
+# 2018 국회고위공직자 재산정보
 
 구글시트: https://docs.google.com/spreadsheets/d/1VUO6V2FfMx86xrqLK7lWEGjHOiTVNYpj8LcKQQNdkF0/edit?usp=sharing
 
@@ -66,7 +65,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021715&no=53&search_key_n=total&search_val_v=%EC%9E%AC%EC%82%B0&currentPage=1&sdate=&edate=
 
 
-# 2019 국회고위공직자 정기재산변동신고_정보공개센터
+# 2019 국회고위공직자 재산정보
 
 구글시트: https://docs.google.com/spreadsheets/d/1FnmxCWfqc4OQwN4rqi21DqprEoMpPEbQ4XgMmSHQ0Po/edit?usp=sharing
 
@@ -79,7 +78,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021876&no=3166&search_key_n=total&search_val_v=&currentPage=351&sdate=&edate=
 
 
-# 2020 국회고위공직자 정기재산변동신고
+# 2020 국회고위공직자 재산정보
 
 구글시트: https://docs.google.com/spreadsheets/d/1jMoZKX1RzVfOYW5prx4PSfFvA-S8orun_CSbDdYUbXA/edit?usp=sharing
 
@@ -91,7 +90,7 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 국회공보 제2020-36호(정기재산공개)
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100022046&no=3336&search_key_n=&search_val_v=&currentPage=1&sdate=&edate=
 
-# 2020.08.28 국회의원 재산신고내역_21대 국회의원 신규등록 포함
+# 2020.08.28 국회의원 재산신고내역 (21대 국회의원 신규등록 포함)
 
 구글시트: https://docs.google.com/spreadsheets/d/1hy2jPcYZGbl282VgCnEeu7lOOte3RPkY15iidQViW1I/edit?usp=sharing
 
@@ -102,3 +101,14 @@ https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicatio
 원본 파일▼
 국회공보 제2020-98호(21신규20퇴직의원재산공개)
 https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100022108&no=3398&search_key_n=&search_val_v=&currentPage=1&sdate=&edate=
+
+# 2021 국회고위공직자 재산정보
+
+구글시트: https://docs.google.com/spreadsheets/d/1XrVH3qa_hIGSn6aFjzQ6Zy7HfJKGj9vkIHAAoknde7o/edit?usp=sharing
+
+(단위금액: 천원)
+이 데이터는 2021년 3월 25일 국회공보 42호에 공개된 '2021년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+
+원본 파일▼
+국회공보 제2021-42호(정기재산공개)
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100022224&no=3514&search_key_n=&search_val_v=&currentPage=1&sdate=&edate=
