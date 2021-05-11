@@ -14,18 +14,6 @@ https://www.opengirok.or.kr/56
 
 <br></br>
 
-# 2016 국회고위공직자 재산정보
-
-구글시트: https://docs.google.com/spreadsheets/d/18sW3VcQLWtkLv7eEOj1Rn3lPIRAJpwVFP1gS6CkVGqw/edit?usp=sharing
-
-(단위금액: 천원)
-이 데이터는 2016년 3월 25일 국회공보에 공개된 20대 국회 신규의원 재산공개  PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
-원본과 대조하며 이용해 주시기 바랍니다.
-
-원본 파일▼
-국회공보 제2016-23호(정기재산공개)
-https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100021389&&no=49&&search_key_n=total&&search_val_v=%EC%9E%AC%EC%82%B0&&currentPage=1&&sdate=&&edate=
-
 
 # 2016 국회의원 재산신고내역 (20대국회신규의원 포함)
 
