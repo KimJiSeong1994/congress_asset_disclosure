@@ -102,3 +102,15 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 원본 파일▼
 국회공보 제2021-42호(정기재산공개) / 국회공직자윤리위원회공고 제2021 - 3호
 https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+
+# 2022 국회고위공직자 재산정보
+
+구글시트: https://docs.google.com/spreadsheets/d/124rioS6kCtJrbuiXNATQmbrFVsBX2TTkQpsSDjco3jA/edit#gid=1563171242
+
+(단위금액: 천원)
+이 데이터는 2022년 3월 31일 국회공보 제 2022-31호에 공개된 '2022년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.
+
+원본 파일▼
+국회공보 제2022-31호(정기재산공개) / 국회공직자윤리위원회공고 제2022-4호
+https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100022404&no=3693&search_key_n=&search_val_v=&currentPage=1&sdate=&edate=
+
