@@ -29,7 +29,7 @@ https://www.opengirok.or.kr/56
 
 원본 파일▼
 국회공보 제2016-78호(제20대국회신규의원재산공개) / 국회공직자윤리위원회공고 제2016 - 11호
-https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100021444&fpath=communication
 
 # 2017 국회고위공직자 재산정보
 구글시트: https://docs.google.com/spreadsheets/d/1y0wtlamIZ0S-sG1qaMEPd5wUmBrvdI37_A9DyfpRwOQ/edit?usp=sharing 
@@ -40,7 +40,7 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 
 원본 파일▼
 국회공보 제2017-36호(정기재산공개) / 국회공직자윤리위원회공고 제2017 - 4호
-https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100021550&fpath=communication
 
 # 2018 국회고위공직자 재산정보
 
@@ -52,7 +52,7 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 
 원본 파일▼
 국회공보 제2018-41호(정기재산공개) /  국회공직자윤리위원회공고 제2018 - 4호
-https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100021715&fpath=communication
 
 
 # 2019 국회고위공직자 재산정보
@@ -65,7 +65,7 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 
 원본 파일▼
 국회공보 제2019-31호(정기재산공개) /  국회공직자윤리위원회공고 제2019 - 3호
-https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100021876&fpath=communication
 
 
 # 2020 국회고위공직자 재산정보
@@ -78,7 +78,7 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 
 원본 파일▼
 국회공보 제2020-36호(정기재산공개) /  국회공직자윤리위원회공고 제2020 - 3호
-https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100022046&fpath=communication
 
 # 2020.08.28 국회의원 재산신고내역 (21대 국회의원 신규등록 포함)
 
@@ -90,7 +90,7 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 
 원본 파일▼
 국회공보 제2020-98호(21신규20퇴직의원재산공개) / 국회공직자윤리위원회공고 제2020-9호
-https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100022108&fpath=communication
 
 # 2021 국회고위공직자 재산정보
 
@@ -101,7 +101,7 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 
 원본 파일▼
 국회공보 제2021-42호(정기재산공개) / 국회공직자윤리위원회공고 제2021 - 3호
-https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M000835T714700
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100022224&fpath=communication
 
 # 2022 국회고위공직자 재산정보
 
@@ -112,5 +112,5 @@ https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O2853M00083
 
 원본 파일▼
 국회공보 제2022-31호(정기재산공개) / 국회공직자윤리위원회공고 제2022-4호
-https://www.assembly.go.kr/assm/assemact/official/assmCommunication/communicationUserView.do?noticeid=1100022404&no=3693&search_key_n=&search_val_v=&currentPage=1&sdate=&edate=
+https://www.assembly.go.kr/common/download.do?fid=communication&noticeid=1100022404&fpath=communication
 
